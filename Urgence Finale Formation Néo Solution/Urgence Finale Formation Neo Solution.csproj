@@ -43,7 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Carte.cs" />
+    <Compile Include="Croupier.cs" />
+    <Compile Include="Jeu.cs" />
+    <Compile Include="Personne.cs" />
+    <Compile Include="Blackjack.cs" />
+    <Compile Include="Joueur.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
